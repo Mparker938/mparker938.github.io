@@ -1,0 +1,14 @@
+Package: com.cokepokes.phantom
+Maintainer: MP <mp@gmail.com>
+Architecture: iphoneos-arm
+Version: 5.3.8-4
+Filename: debs//phantom.deb
+Size: 10162206
+MD5sum: 4acf00481dbe334aa33392f2f937b4f0
+SHA1: 8c8ee27ae65a77eb72c3a7ae66a7c6d6c8ed9450
+SHA256: d091a8910c6deda3ae930a94dad61e74f66b57300a26636e8ecc6feaef8cdcac
+Section: Tweaks
+Description: Phantom (lite)
+Name: Phantom (lite)
+Author: Cokepokes <idk@gmail.com>
+
