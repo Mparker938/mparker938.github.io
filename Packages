@@ -28,15 +28,13 @@ Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.old
 
 Package: com.cokepokes.phantom
 Version: 5.3.8-4
-Maintainer: MP <mp@gmail.com>
-Architecture: iphoneos-arm
-Filename: ./debs/phantom.deb
+Section: Tweaks
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Filename: ./debs/com.cokepokes.phantom_5.3.8-4_iphoneos-arm.deb
 Size: 10162206
 MD5sum: 4acf00481dbe334aa33392f2f937b4f0
-SHA1: 8c8ee27ae65a77eb72c3a7ae66a7c6d6c8ed9450
-SHA256: d091a8910c6deda3ae930a94dad61e74f66b57300a26636e8ecc6feaef8cdcac
-Section: Tweaks
-Description: Phantom (lite)
+Description: Phantom
 Name: Phantom (lite)
 Author: Cokepokes <idk@gmail.com> 
 
