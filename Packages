@@ -1,8 +1,8 @@
 Package: com.cokepokes.phantom
+Version: 5.3.8-4
 Maintainer: MP <mp@gmail.com>
 Architecture: iphoneos-arm
-Version: 5.3.8-4
-Filename: debs//phantom.deb
+Filename: ./debs/phantom.deb
 Size: 10162206
 MD5sum: 4acf00481dbe334aa33392f2f937b4f0
 SHA1: 8c8ee27ae65a77eb72c3a7ae66a7c6d6c8ed9450
